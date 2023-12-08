@@ -91,6 +91,6 @@ def task_two():
     print(total_sum_of_powers)
 
 
-# task_one()
+task_one()
 
 task_two()
